@@ -1,1 +1,2 @@
-# Reloj-Digital
+#
+#### Reloj digital in tkinter responsive
